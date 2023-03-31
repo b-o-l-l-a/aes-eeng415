@@ -1,0 +1,67 @@
+,non_informative_race_attributes
+0,Total:
+1,Population of one race:
+2,Population of two or more races:
+3,Population of two races:
+4,White; Black or African American
+5,White; American Indian and Alaska Native
+6,White; Asian
+7,White; Native Hawaiian and Other Pacific Islander
+8,White; Some Other Race
+9,Black or African American; American Indian and Alaska Native
+10,Black or African American; Asian
+11,Black or African American; Native Hawaiian and Other Pacific Islander
+12,Black or African American; Some Other Race
+13,American Indian and Alaska Native; Asian
+14,American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+15,American Indian and Alaska Native; Some Other Race
+16,Asian; Native Hawaiian and Other Pacific Islander
+17,Asian; Some Other Race
+18,Native Hawaiian and Other Pacific Islander; Some Other Race
+19,Population of three races:
+20,White; Black or African American; American Indian and Alaska Native
+21,White; Black or African American; Asian
+22,White; Black or African American; Native Hawaiian and Other Pacific Islander
+23,White; Black or African American; Some Other Race
+24,White; American Indian and Alaska Native; Asian
+25,White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+26,White; American Indian and Alaska Native; Some Other Race
+27,White; Asian; Native Hawaiian and Other Pacific Islander
+28,White; Asian; Some Other Race
+29,White; Native Hawaiian and Other Pacific Islander; Some Other Race
+30,Black or African American; American Indian and Alaska Native; Asian
+31,Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+32,Black or African American; American Indian and Alaska Native; Some Other Race
+33,Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+34,Black or African American; Asian; Some Other Race
+35,Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race
+36,American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+37,American Indian and Alaska Native; Asian; Some Other Race
+38,American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+39,Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+40,Population of four races:
+41,White; Black or African American; American Indian and Alaska Native; Asian
+42,White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander
+43,White; Black or African American; American Indian and Alaska Native; Some Other Race
+44,White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander
+45,White; Black or African American; Asian; Some Other Race
+46,White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race
+47,White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+48,White; American Indian and Alaska Native; Asian; Some Other Race
+49,White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+50,White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+51,Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+52,Black or African American; American Indian and Alaska Native; Asian; Some Other Race
+53,Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+54,Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+55,American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+56,Population of five races:
+57,White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander
+58,White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race
+59,White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race
+60,White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+61,White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+62,Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+63,Population of six races:
+64,White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race
+65,census_tract

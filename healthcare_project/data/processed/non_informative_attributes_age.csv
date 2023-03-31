@@ -1,0 +1,902 @@
+,non_informative_age_attributes
+0,Geography
+1,Geographic Area Name
+2,Margin of Error!!Total!!Total population
+3,Annotation of Margin of Error!!Total!!Total population
+4,Annotation of Estimate!!Total!!Total population
+5,Estimate!!Total!!Total population!!AGE!!Under 5 years
+6,Annotation of Estimate!!Total!!Total population!!AGE!!Under 5 years
+7,Margin of Error!!Total!!Total population!!AGE!!Under 5 years
+8,Annotation of Margin of Error!!Total!!Total population!!AGE!!Under 5 years
+9,Estimate!!Total!!Total population!!AGE!!5 to 9 years
+10,Annotation of Estimate!!Total!!Total population!!AGE!!5 to 9 years
+11,Margin of Error!!Total!!Total population!!AGE!!5 to 9 years
+12,Annotation of Margin of Error!!Total!!Total population!!AGE!!5 to 9 years
+13,Estimate!!Total!!Total population!!AGE!!10 to 14 years
+14,Margin of Error!!Total!!Total population!!AGE!!10 to 14 years
+15,Annotation of Margin of Error!!Total!!Total population!!AGE!!10 to 14 years
+16,Annotation of Estimate!!Total!!Total population!!AGE!!10 to 14 years
+17,Estimate!!Total!!Total population!!AGE!!15 to 19 years
+18,Annotation of Estimate!!Total!!Total population!!AGE!!15 to 19 years
+19,Margin of Error!!Total!!Total population!!AGE!!15 to 19 years
+20,Annotation of Margin of Error!!Total!!Total population!!AGE!!15 to 19 years
+21,Estimate!!Total!!Total population!!AGE!!20 to 24 years
+22,Annotation of Estimate!!Total!!Total population!!AGE!!20 to 24 years
+23,Margin of Error!!Total!!Total population!!AGE!!20 to 24 years
+24,Annotation of Margin of Error!!Total!!Total population!!AGE!!20 to 24 years
+25,Estimate!!Total!!Total population!!AGE!!25 to 29 years
+26,Margin of Error!!Total!!Total population!!AGE!!25 to 29 years
+27,Annotation of Margin of Error!!Total!!Total population!!AGE!!25 to 29 years
+28,Annotation of Estimate!!Total!!Total population!!AGE!!25 to 29 years
+29,Estimate!!Total!!Total population!!AGE!!30 to 34 years
+30,Margin of Error!!Total!!Total population!!AGE!!30 to 34 years
+31,Annotation of Margin of Error!!Total!!Total population!!AGE!!30 to 34 years
+32,Annotation of Estimate!!Total!!Total population!!AGE!!30 to 34 years
+33,Estimate!!Total!!Total population!!AGE!!35 to 39 years
+34,Margin of Error!!Total!!Total population!!AGE!!35 to 39 years
+35,Annotation of Margin of Error!!Total!!Total population!!AGE!!35 to 39 years
+36,Annotation of Estimate!!Total!!Total population!!AGE!!35 to 39 years
+37,Estimate!!Total!!Total population!!AGE!!40 to 44 years
+38,Annotation of Estimate!!Total!!Total population!!AGE!!40 to 44 years
+39,Margin of Error!!Total!!Total population!!AGE!!40 to 44 years
+40,Annotation of Margin of Error!!Total!!Total population!!AGE!!40 to 44 years
+41,Estimate!!Total!!Total population!!AGE!!45 to 49 years
+42,Annotation of Estimate!!Total!!Total population!!AGE!!45 to 49 years
+43,Margin of Error!!Total!!Total population!!AGE!!45 to 49 years
+44,Annotation of Margin of Error!!Total!!Total population!!AGE!!45 to 49 years
+45,Estimate!!Total!!Total population!!AGE!!50 to 54 years
+46,Margin of Error!!Total!!Total population!!AGE!!50 to 54 years
+47,Annotation of Margin of Error!!Total!!Total population!!AGE!!50 to 54 years
+48,Annotation of Estimate!!Total!!Total population!!AGE!!50 to 54 years
+49,Estimate!!Total!!Total population!!AGE!!55 to 59 years
+50,Annotation of Estimate!!Total!!Total population!!AGE!!55 to 59 years
+51,Margin of Error!!Total!!Total population!!AGE!!55 to 59 years
+52,Annotation of Margin of Error!!Total!!Total population!!AGE!!55 to 59 years
+53,Estimate!!Total!!Total population!!AGE!!60 to 64 years
+54,Margin of Error!!Total!!Total population!!AGE!!60 to 64 years
+55,Annotation of Margin of Error!!Total!!Total population!!AGE!!60 to 64 years
+56,Annotation of Estimate!!Total!!Total population!!AGE!!60 to 64 years
+57,Estimate!!Total!!Total population!!AGE!!65 to 69 years
+58,Margin of Error!!Total!!Total population!!AGE!!65 to 69 years
+59,Annotation of Margin of Error!!Total!!Total population!!AGE!!65 to 69 years
+60,Annotation of Estimate!!Total!!Total population!!AGE!!65 to 69 years
+61,Estimate!!Total!!Total population!!AGE!!70 to 74 years
+62,Annotation of Estimate!!Total!!Total population!!AGE!!70 to 74 years
+63,Margin of Error!!Total!!Total population!!AGE!!70 to 74 years
+64,Annotation of Margin of Error!!Total!!Total population!!AGE!!70 to 74 years
+65,Estimate!!Total!!Total population!!AGE!!75 to 79 years
+66,Margin of Error!!Total!!Total population!!AGE!!75 to 79 years
+67,Annotation of Margin of Error!!Total!!Total population!!AGE!!75 to 79 years
+68,Annotation of Estimate!!Total!!Total population!!AGE!!75 to 79 years
+69,Estimate!!Total!!Total population!!AGE!!80 to 84 years
+70,Margin of Error!!Total!!Total population!!AGE!!80 to 84 years
+71,Annotation of Margin of Error!!Total!!Total population!!AGE!!80 to 84 years
+72,Annotation of Estimate!!Total!!Total population!!AGE!!80 to 84 years
+73,Estimate!!Total!!Total population!!AGE!!85 years and over
+74,Margin of Error!!Total!!Total population!!AGE!!85 years and over
+75,Annotation of Margin of Error!!Total!!Total population!!AGE!!85 years and over
+76,Annotation of Estimate!!Total!!Total population!!AGE!!85 years and over
+77,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+78,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+79,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+80,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+81,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+82,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+83,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+84,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+85,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+86,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+87,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+88,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+89,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+90,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+91,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+92,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+93,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+94,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+95,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+96,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+97,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+98,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+99,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+100,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+101,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+102,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+103,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+104,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+105,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+106,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+107,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+108,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+109,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+110,Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+111,Annotation of Margin of Error!!Total!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+112,Annotation of Estimate!!Total!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+113,Estimate!!Total!!Total population!!SUMMARY INDICATORS!!Median age (years)
+114,Annotation of Estimate!!Total!!Total population!!SUMMARY INDICATORS!!Median age (years)
+115,Margin of Error!!Total!!Total population!!SUMMARY INDICATORS!!Median age (years)
+116,Annotation of Margin of Error!!Total!!Total population!!SUMMARY INDICATORS!!Median age (years)
+117,Estimate!!Total!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+118,Annotation of Estimate!!Total!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+119,Margin of Error!!Total!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+120,Annotation of Margin of Error!!Total!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+121,Estimate!!Total!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+122,Annotation of Estimate!!Total!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+123,Margin of Error!!Total!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+124,Annotation of Margin of Error!!Total!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+125,Estimate!!Total!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+126,Annotation of Estimate!!Total!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+127,Margin of Error!!Total!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+128,Annotation of Margin of Error!!Total!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+129,Estimate!!Total!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+130,Annotation of Estimate!!Total!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+131,Margin of Error!!Total!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+132,Annotation of Margin of Error!!Total!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+133,Estimate!!Total!!Total population!!PERCENT ALLOCATED!!Sex
+134,Margin of Error!!Total!!Total population!!PERCENT ALLOCATED!!Sex
+135,Annotation of Margin of Error!!Total!!Total population!!PERCENT ALLOCATED!!Sex
+136,Annotation of Estimate!!Total!!Total population!!PERCENT ALLOCATED!!Sex
+137,Estimate!!Total!!Total population!!PERCENT ALLOCATED!!Age
+138,Annotation of Estimate!!Total!!Total population!!PERCENT ALLOCATED!!Age
+139,Margin of Error!!Total!!Total population!!PERCENT ALLOCATED!!Age
+140,Annotation of Margin of Error!!Total!!Total population!!PERCENT ALLOCATED!!Age
+141,Estimate!!Percent!!Total population
+142,Annotation of Estimate!!Percent!!Total population
+143,Margin of Error!!Percent!!Total population
+144,Annotation of Margin of Error!!Percent!!Total population
+145,Estimate!!Percent!!Total population!!AGE!!Under 5 years
+146,Annotation of Estimate!!Percent!!Total population!!AGE!!Under 5 years
+147,Margin of Error!!Percent!!Total population!!AGE!!Under 5 years
+148,Annotation of Margin of Error!!Percent!!Total population!!AGE!!Under 5 years
+149,Estimate!!Percent!!Total population!!AGE!!5 to 9 years
+150,Annotation of Estimate!!Percent!!Total population!!AGE!!5 to 9 years
+151,Margin of Error!!Percent!!Total population!!AGE!!5 to 9 years
+152,Annotation of Margin of Error!!Percent!!Total population!!AGE!!5 to 9 years
+153,Estimate!!Percent!!Total population!!AGE!!10 to 14 years
+154,Margin of Error!!Percent!!Total population!!AGE!!10 to 14 years
+155,Annotation of Margin of Error!!Percent!!Total population!!AGE!!10 to 14 years
+156,Annotation of Estimate!!Percent!!Total population!!AGE!!10 to 14 years
+157,Estimate!!Percent!!Total population!!AGE!!15 to 19 years
+158,Annotation of Estimate!!Percent!!Total population!!AGE!!15 to 19 years
+159,Margin of Error!!Percent!!Total population!!AGE!!15 to 19 years
+160,Annotation of Margin of Error!!Percent!!Total population!!AGE!!15 to 19 years
+161,Estimate!!Percent!!Total population!!AGE!!20 to 24 years
+162,Margin of Error!!Percent!!Total population!!AGE!!20 to 24 years
+163,Annotation of Margin of Error!!Percent!!Total population!!AGE!!20 to 24 years
+164,Annotation of Estimate!!Percent!!Total population!!AGE!!20 to 24 years
+165,Estimate!!Percent!!Total population!!AGE!!25 to 29 years
+166,Margin of Error!!Percent!!Total population!!AGE!!25 to 29 years
+167,Annotation of Margin of Error!!Percent!!Total population!!AGE!!25 to 29 years
+168,Annotation of Estimate!!Percent!!Total population!!AGE!!25 to 29 years
+169,Estimate!!Percent!!Total population!!AGE!!30 to 34 years
+170,Margin of Error!!Percent!!Total population!!AGE!!30 to 34 years
+171,Annotation of Margin of Error!!Percent!!Total population!!AGE!!30 to 34 years
+172,Annotation of Estimate!!Percent!!Total population!!AGE!!30 to 34 years
+173,Estimate!!Percent!!Total population!!AGE!!35 to 39 years
+174,Annotation of Estimate!!Percent!!Total population!!AGE!!35 to 39 years
+175,Margin of Error!!Percent!!Total population!!AGE!!35 to 39 years
+176,Annotation of Margin of Error!!Percent!!Total population!!AGE!!35 to 39 years
+177,Estimate!!Percent!!Total population!!AGE!!40 to 44 years
+178,Annotation of Estimate!!Percent!!Total population!!AGE!!40 to 44 years
+179,Margin of Error!!Percent!!Total population!!AGE!!40 to 44 years
+180,Annotation of Margin of Error!!Percent!!Total population!!AGE!!40 to 44 years
+181,Estimate!!Percent!!Total population!!AGE!!45 to 49 years
+182,Margin of Error!!Percent!!Total population!!AGE!!45 to 49 years
+183,Annotation of Margin of Error!!Percent!!Total population!!AGE!!45 to 49 years
+184,Annotation of Estimate!!Percent!!Total population!!AGE!!45 to 49 years
+185,Estimate!!Percent!!Total population!!AGE!!50 to 54 years
+186,Margin of Error!!Percent!!Total population!!AGE!!50 to 54 years
+187,Annotation of Margin of Error!!Percent!!Total population!!AGE!!50 to 54 years
+188,Annotation of Estimate!!Percent!!Total population!!AGE!!50 to 54 years
+189,Estimate!!Percent!!Total population!!AGE!!55 to 59 years
+190,Margin of Error!!Percent!!Total population!!AGE!!55 to 59 years
+191,Annotation of Margin of Error!!Percent!!Total population!!AGE!!55 to 59 years
+192,Annotation of Estimate!!Percent!!Total population!!AGE!!55 to 59 years
+193,Estimate!!Percent!!Total population!!AGE!!60 to 64 years
+194,Annotation of Estimate!!Percent!!Total population!!AGE!!60 to 64 years
+195,Margin of Error!!Percent!!Total population!!AGE!!60 to 64 years
+196,Annotation of Margin of Error!!Percent!!Total population!!AGE!!60 to 64 years
+197,Estimate!!Percent!!Total population!!AGE!!65 to 69 years
+198,Margin of Error!!Percent!!Total population!!AGE!!65 to 69 years
+199,Annotation of Margin of Error!!Percent!!Total population!!AGE!!65 to 69 years
+200,Annotation of Estimate!!Percent!!Total population!!AGE!!65 to 69 years
+201,Estimate!!Percent!!Total population!!AGE!!70 to 74 years
+202,Annotation of Estimate!!Percent!!Total population!!AGE!!70 to 74 years
+203,Margin of Error!!Percent!!Total population!!AGE!!70 to 74 years
+204,Annotation of Margin of Error!!Percent!!Total population!!AGE!!70 to 74 years
+205,Estimate!!Percent!!Total population!!AGE!!75 to 79 years
+206,Margin of Error!!Percent!!Total population!!AGE!!75 to 79 years
+207,Annotation of Margin of Error!!Percent!!Total population!!AGE!!75 to 79 years
+208,Annotation of Estimate!!Percent!!Total population!!AGE!!75 to 79 years
+209,Estimate!!Percent!!Total population!!AGE!!80 to 84 years
+210,Margin of Error!!Percent!!Total population!!AGE!!80 to 84 years
+211,Annotation of Margin of Error!!Percent!!Total population!!AGE!!80 to 84 years
+212,Annotation of Estimate!!Percent!!Total population!!AGE!!80 to 84 years
+213,Estimate!!Percent!!Total population!!AGE!!85 years and over
+214,Annotation of Estimate!!Percent!!Total population!!AGE!!85 years and over
+215,Margin of Error!!Percent!!Total population!!AGE!!85 years and over
+216,Annotation of Margin of Error!!Percent!!Total population!!AGE!!85 years and over
+217,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+218,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+219,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+220,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+221,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+222,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+223,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+224,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+225,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+226,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+227,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+228,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+229,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+230,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+231,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+232,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+233,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+234,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+235,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+236,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+237,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+238,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+239,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+240,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+241,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+242,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+243,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+244,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+245,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+246,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+247,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+248,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+249,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+250,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+251,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+252,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+253,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+254,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+255,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+256,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+257,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+258,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+259,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+260,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+261,Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+262,Annotation of Estimate!!Percent!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+263,Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+264,Annotation of Margin of Error!!Percent!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+265,Estimate!!Percent!!Total population!!SUMMARY INDICATORS!!Median age (years)
+266,Annotation of Estimate!!Percent!!Total population!!SUMMARY INDICATORS!!Median age (years)
+267,Margin of Error!!Percent!!Total population!!SUMMARY INDICATORS!!Median age (years)
+268,Annotation of Margin of Error!!Percent!!Total population!!SUMMARY INDICATORS!!Median age (years)
+269,Estimate!!Percent!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+270,Margin of Error!!Percent!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+271,Annotation of Margin of Error!!Percent!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+272,Annotation of Estimate!!Percent!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+273,Estimate!!Percent!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+274,Annotation of Estimate!!Percent!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+275,Margin of Error!!Percent!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+276,Annotation of Margin of Error!!Percent!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+277,Estimate!!Percent!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+278,Annotation of Estimate!!Percent!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+279,Margin of Error!!Percent!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+280,Annotation of Margin of Error!!Percent!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+281,Estimate!!Percent!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+282,Annotation of Estimate!!Percent!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+283,Margin of Error!!Percent!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+284,Annotation of Margin of Error!!Percent!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+285,Estimate!!Percent!!Total population!!PERCENT ALLOCATED!!Sex
+286,Margin of Error!!Percent!!Total population!!PERCENT ALLOCATED!!Sex
+287,Annotation of Margin of Error!!Percent!!Total population!!PERCENT ALLOCATED!!Sex
+288,Annotation of Estimate!!Percent!!Total population!!PERCENT ALLOCATED!!Sex
+289,Estimate!!Percent!!Total population!!PERCENT ALLOCATED!!Age
+290,Annotation of Estimate!!Percent!!Total population!!PERCENT ALLOCATED!!Age
+291,Margin of Error!!Percent!!Total population!!PERCENT ALLOCATED!!Age
+292,Annotation of Margin of Error!!Percent!!Total population!!PERCENT ALLOCATED!!Age
+293,Estimate!!Male!!Total population
+294,Annotation of Estimate!!Male!!Total population
+295,Margin of Error!!Male!!Total population
+296,Annotation of Margin of Error!!Male!!Total population
+297,Estimate!!Male!!Total population!!AGE!!Under 5 years
+298,Annotation of Estimate!!Male!!Total population!!AGE!!Under 5 years
+299,Margin of Error!!Male!!Total population!!AGE!!Under 5 years
+300,Annotation of Margin of Error!!Male!!Total population!!AGE!!Under 5 years
+301,Estimate!!Male!!Total population!!AGE!!5 to 9 years
+302,Margin of Error!!Male!!Total population!!AGE!!5 to 9 years
+303,Annotation of Margin of Error!!Male!!Total population!!AGE!!5 to 9 years
+304,Annotation of Estimate!!Male!!Total population!!AGE!!5 to 9 years
+305,Estimate!!Male!!Total population!!AGE!!10 to 14 years
+306,Margin of Error!!Male!!Total population!!AGE!!10 to 14 years
+307,Annotation of Margin of Error!!Male!!Total population!!AGE!!10 to 14 years
+308,Annotation of Estimate!!Male!!Total population!!AGE!!10 to 14 years
+309,Estimate!!Male!!Total population!!AGE!!15 to 19 years
+310,Margin of Error!!Male!!Total population!!AGE!!15 to 19 years
+311,Annotation of Margin of Error!!Male!!Total population!!AGE!!15 to 19 years
+312,Annotation of Estimate!!Male!!Total population!!AGE!!15 to 19 years
+313,Estimate!!Male!!Total population!!AGE!!20 to 24 years
+314,Margin of Error!!Male!!Total population!!AGE!!20 to 24 years
+315,Annotation of Margin of Error!!Male!!Total population!!AGE!!20 to 24 years
+316,Annotation of Estimate!!Male!!Total population!!AGE!!20 to 24 years
+317,Estimate!!Male!!Total population!!AGE!!25 to 29 years
+318,Annotation of Estimate!!Male!!Total population!!AGE!!25 to 29 years
+319,Margin of Error!!Male!!Total population!!AGE!!25 to 29 years
+320,Annotation of Margin of Error!!Male!!Total population!!AGE!!25 to 29 years
+321,Estimate!!Male!!Total population!!AGE!!30 to 34 years
+322,Annotation of Estimate!!Male!!Total population!!AGE!!30 to 34 years
+323,Margin of Error!!Male!!Total population!!AGE!!30 to 34 years
+324,Annotation of Margin of Error!!Male!!Total population!!AGE!!30 to 34 years
+325,Estimate!!Male!!Total population!!AGE!!35 to 39 years
+326,Annotation of Estimate!!Male!!Total population!!AGE!!35 to 39 years
+327,Margin of Error!!Male!!Total population!!AGE!!35 to 39 years
+328,Annotation of Margin of Error!!Male!!Total population!!AGE!!35 to 39 years
+329,Estimate!!Male!!Total population!!AGE!!40 to 44 years
+330,Margin of Error!!Male!!Total population!!AGE!!40 to 44 years
+331,Annotation of Margin of Error!!Male!!Total population!!AGE!!40 to 44 years
+332,Annotation of Estimate!!Male!!Total population!!AGE!!40 to 44 years
+333,Estimate!!Male!!Total population!!AGE!!45 to 49 years
+334,Margin of Error!!Male!!Total population!!AGE!!45 to 49 years
+335,Annotation of Margin of Error!!Male!!Total population!!AGE!!45 to 49 years
+336,Annotation of Estimate!!Male!!Total population!!AGE!!45 to 49 years
+337,Estimate!!Male!!Total population!!AGE!!50 to 54 years
+338,Annotation of Estimate!!Male!!Total population!!AGE!!50 to 54 years
+339,Margin of Error!!Male!!Total population!!AGE!!50 to 54 years
+340,Annotation of Margin of Error!!Male!!Total population!!AGE!!50 to 54 years
+341,Estimate!!Male!!Total population!!AGE!!55 to 59 years
+342,Margin of Error!!Male!!Total population!!AGE!!55 to 59 years
+343,Annotation of Margin of Error!!Male!!Total population!!AGE!!55 to 59 years
+344,Annotation of Estimate!!Male!!Total population!!AGE!!55 to 59 years
+345,Estimate!!Male!!Total population!!AGE!!60 to 64 years
+346,Margin of Error!!Male!!Total population!!AGE!!60 to 64 years
+347,Annotation of Margin of Error!!Male!!Total population!!AGE!!60 to 64 years
+348,Annotation of Estimate!!Male!!Total population!!AGE!!60 to 64 years
+349,Estimate!!Male!!Total population!!AGE!!65 to 69 years
+350,Annotation of Estimate!!Male!!Total population!!AGE!!65 to 69 years
+351,Margin of Error!!Male!!Total population!!AGE!!65 to 69 years
+352,Annotation of Margin of Error!!Male!!Total population!!AGE!!65 to 69 years
+353,Estimate!!Male!!Total population!!AGE!!70 to 74 years
+354,Annotation of Estimate!!Male!!Total population!!AGE!!70 to 74 years
+355,Margin of Error!!Male!!Total population!!AGE!!70 to 74 years
+356,Annotation of Margin of Error!!Male!!Total population!!AGE!!70 to 74 years
+357,Estimate!!Male!!Total population!!AGE!!75 to 79 years
+358,Margin of Error!!Male!!Total population!!AGE!!75 to 79 years
+359,Annotation of Margin of Error!!Male!!Total population!!AGE!!75 to 79 years
+360,Annotation of Estimate!!Male!!Total population!!AGE!!75 to 79 years
+361,Estimate!!Male!!Total population!!AGE!!80 to 84 years
+362,Annotation of Estimate!!Male!!Total population!!AGE!!80 to 84 years
+363,Margin of Error!!Male!!Total population!!AGE!!80 to 84 years
+364,Annotation of Margin of Error!!Male!!Total population!!AGE!!80 to 84 years
+365,Estimate!!Male!!Total population!!AGE!!85 years and over
+366,Annotation of Estimate!!Male!!Total population!!AGE!!85 years and over
+367,Margin of Error!!Male!!Total population!!AGE!!85 years and over
+368,Annotation of Margin of Error!!Male!!Total population!!AGE!!85 years and over
+369,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+370,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+371,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+372,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+373,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+374,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+375,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+376,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+377,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+378,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+379,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+380,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+381,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+382,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+383,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+384,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+385,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+386,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+387,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+388,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+389,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+390,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+391,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+392,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+393,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+394,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+395,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+396,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+397,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+398,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+399,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+400,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+401,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+402,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+403,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+404,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+405,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+406,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+407,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+408,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+409,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+410,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+411,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+412,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+413,Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+414,Annotation of Estimate!!Male!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+415,Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+416,Annotation of Margin of Error!!Male!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+417,Estimate!!Male!!Total population!!SUMMARY INDICATORS!!Median age (years)
+418,Margin of Error!!Male!!Total population!!SUMMARY INDICATORS!!Median age (years)
+419,Annotation of Margin of Error!!Male!!Total population!!SUMMARY INDICATORS!!Median age (years)
+420,Annotation of Estimate!!Male!!Total population!!SUMMARY INDICATORS!!Median age (years)
+421,Estimate!!Male!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+422,Margin of Error!!Male!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+423,Annotation of Margin of Error!!Male!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+424,Annotation of Estimate!!Male!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+425,Estimate!!Male!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+426,Annotation of Estimate!!Male!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+427,Margin of Error!!Male!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+428,Annotation of Margin of Error!!Male!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+429,Estimate!!Male!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+430,Margin of Error!!Male!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+431,Annotation of Margin of Error!!Male!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+432,Annotation of Estimate!!Male!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+433,Estimate!!Male!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+434,Margin of Error!!Male!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+435,Annotation of Margin of Error!!Male!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+436,Annotation of Estimate!!Male!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+437,Estimate!!Male!!Total population!!PERCENT ALLOCATED!!Sex
+438,Margin of Error!!Male!!Total population!!PERCENT ALLOCATED!!Sex
+439,Annotation of Margin of Error!!Male!!Total population!!PERCENT ALLOCATED!!Sex
+440,Annotation of Estimate!!Male!!Total population!!PERCENT ALLOCATED!!Sex
+441,Estimate!!Male!!Total population!!PERCENT ALLOCATED!!Age
+442,Margin of Error!!Male!!Total population!!PERCENT ALLOCATED!!Age
+443,Annotation of Margin of Error!!Male!!Total population!!PERCENT ALLOCATED!!Age
+444,Annotation of Estimate!!Male!!Total population!!PERCENT ALLOCATED!!Age
+445,Estimate!!Percent Male!!Total population
+446,Annotation of Estimate!!Percent Male!!Total population
+447,Margin of Error!!Percent Male!!Total population
+448,Annotation of Margin of Error!!Percent Male!!Total population
+449,Estimate!!Percent Male!!Total population!!AGE!!Under 5 years
+450,Margin of Error!!Percent Male!!Total population!!AGE!!Under 5 years
+451,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!Under 5 years
+452,Annotation of Estimate!!Percent Male!!Total population!!AGE!!Under 5 years
+453,Estimate!!Percent Male!!Total population!!AGE!!5 to 9 years
+454,Margin of Error!!Percent Male!!Total population!!AGE!!5 to 9 years
+455,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!5 to 9 years
+456,Annotation of Estimate!!Percent Male!!Total population!!AGE!!5 to 9 years
+457,Estimate!!Percent Male!!Total population!!AGE!!10 to 14 years
+458,Margin of Error!!Percent Male!!Total population!!AGE!!10 to 14 years
+459,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!10 to 14 years
+460,Annotation of Estimate!!Percent Male!!Total population!!AGE!!10 to 14 years
+461,Estimate!!Percent Male!!Total population!!AGE!!15 to 19 years
+462,Margin of Error!!Percent Male!!Total population!!AGE!!15 to 19 years
+463,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!15 to 19 years
+464,Annotation of Estimate!!Percent Male!!Total population!!AGE!!15 to 19 years
+465,Estimate!!Percent Male!!Total population!!AGE!!20 to 24 years
+466,Annotation of Estimate!!Percent Male!!Total population!!AGE!!20 to 24 years
+467,Margin of Error!!Percent Male!!Total population!!AGE!!20 to 24 years
+468,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!20 to 24 years
+469,Estimate!!Percent Male!!Total population!!AGE!!25 to 29 years
+470,Annotation of Estimate!!Percent Male!!Total population!!AGE!!25 to 29 years
+471,Margin of Error!!Percent Male!!Total population!!AGE!!25 to 29 years
+472,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!25 to 29 years
+473,Estimate!!Percent Male!!Total population!!AGE!!30 to 34 years
+474,Annotation of Estimate!!Percent Male!!Total population!!AGE!!30 to 34 years
+475,Margin of Error!!Percent Male!!Total population!!AGE!!30 to 34 years
+476,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!30 to 34 years
+477,Estimate!!Percent Male!!Total population!!AGE!!35 to 39 years
+478,Margin of Error!!Percent Male!!Total population!!AGE!!35 to 39 years
+479,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!35 to 39 years
+480,Annotation of Estimate!!Percent Male!!Total population!!AGE!!35 to 39 years
+481,Estimate!!Percent Male!!Total population!!AGE!!40 to 44 years
+482,Annotation of Estimate!!Percent Male!!Total population!!AGE!!40 to 44 years
+483,Margin of Error!!Percent Male!!Total population!!AGE!!40 to 44 years
+484,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!40 to 44 years
+485,Estimate!!Percent Male!!Total population!!AGE!!45 to 49 years
+486,Margin of Error!!Percent Male!!Total population!!AGE!!45 to 49 years
+487,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!45 to 49 years
+488,Annotation of Estimate!!Percent Male!!Total population!!AGE!!45 to 49 years
+489,Estimate!!Percent Male!!Total population!!AGE!!50 to 54 years
+490,Annotation of Estimate!!Percent Male!!Total population!!AGE!!50 to 54 years
+491,Margin of Error!!Percent Male!!Total population!!AGE!!50 to 54 years
+492,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!50 to 54 years
+493,Estimate!!Percent Male!!Total population!!AGE!!55 to 59 years
+494,Margin of Error!!Percent Male!!Total population!!AGE!!55 to 59 years
+495,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!55 to 59 years
+496,Annotation of Estimate!!Percent Male!!Total population!!AGE!!55 to 59 years
+497,Estimate!!Percent Male!!Total population!!AGE!!60 to 64 years
+498,Annotation of Estimate!!Percent Male!!Total population!!AGE!!60 to 64 years
+499,Margin of Error!!Percent Male!!Total population!!AGE!!60 to 64 years
+500,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!60 to 64 years
+501,Estimate!!Percent Male!!Total population!!AGE!!65 to 69 years
+502,Annotation of Estimate!!Percent Male!!Total population!!AGE!!65 to 69 years
+503,Margin of Error!!Percent Male!!Total population!!AGE!!65 to 69 years
+504,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!65 to 69 years
+505,Estimate!!Percent Male!!Total population!!AGE!!70 to 74 years
+506,Margin of Error!!Percent Male!!Total population!!AGE!!70 to 74 years
+507,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!70 to 74 years
+508,Annotation of Estimate!!Percent Male!!Total population!!AGE!!70 to 74 years
+509,Estimate!!Percent Male!!Total population!!AGE!!75 to 79 years
+510,Annotation of Estimate!!Percent Male!!Total population!!AGE!!75 to 79 years
+511,Margin of Error!!Percent Male!!Total population!!AGE!!75 to 79 years
+512,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!75 to 79 years
+513,Estimate!!Percent Male!!Total population!!AGE!!80 to 84 years
+514,Annotation of Estimate!!Percent Male!!Total population!!AGE!!80 to 84 years
+515,Margin of Error!!Percent Male!!Total population!!AGE!!80 to 84 years
+516,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!80 to 84 years
+517,Estimate!!Percent Male!!Total population!!AGE!!85 years and over
+518,Margin of Error!!Percent Male!!Total population!!AGE!!85 years and over
+519,Annotation of Margin of Error!!Percent Male!!Total population!!AGE!!85 years and over
+520,Annotation of Estimate!!Percent Male!!Total population!!AGE!!85 years and over
+521,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+522,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+523,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+524,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+525,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+526,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+527,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+528,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+529,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+530,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+531,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+532,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+533,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+534,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+535,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+536,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+537,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+538,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+539,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+540,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+541,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+542,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+543,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+544,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+545,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+546,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+547,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+548,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+549,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+550,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+551,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+552,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+553,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+554,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+555,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+556,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+557,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+558,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+559,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+560,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+561,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+562,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+563,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+564,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+565,Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+566,Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+567,Annotation of Margin of Error!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+568,Annotation of Estimate!!Percent Male!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+569,Estimate!!Percent Male!!Total population!!SUMMARY INDICATORS!!Median age (years)
+570,Annotation of Estimate!!Percent Male!!Total population!!SUMMARY INDICATORS!!Median age (years)
+571,Margin of Error!!Percent Male!!Total population!!SUMMARY INDICATORS!!Median age (years)
+572,Annotation of Margin of Error!!Percent Male!!Total population!!SUMMARY INDICATORS!!Median age (years)
+573,Estimate!!Percent Male!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+574,Margin of Error!!Percent Male!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+575,Annotation of Margin of Error!!Percent Male!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+576,Annotation of Estimate!!Percent Male!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+577,Estimate!!Percent Male!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+578,Margin of Error!!Percent Male!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+579,Annotation of Margin of Error!!Percent Male!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+580,Annotation of Estimate!!Percent Male!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+581,Estimate!!Percent Male!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+582,Margin of Error!!Percent Male!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+583,Annotation of Margin of Error!!Percent Male!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+584,Annotation of Estimate!!Percent Male!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+585,Estimate!!Percent Male!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+586,Margin of Error!!Percent Male!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+587,Annotation of Margin of Error!!Percent Male!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+588,Annotation of Estimate!!Percent Male!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+589,Estimate!!Percent Male!!Total population!!PERCENT ALLOCATED!!Sex
+590,Annotation of Estimate!!Percent Male!!Total population!!PERCENT ALLOCATED!!Sex
+591,Margin of Error!!Percent Male!!Total population!!PERCENT ALLOCATED!!Sex
+592,Annotation of Margin of Error!!Percent Male!!Total population!!PERCENT ALLOCATED!!Sex
+593,Estimate!!Percent Male!!Total population!!PERCENT ALLOCATED!!Age
+594,Margin of Error!!Percent Male!!Total population!!PERCENT ALLOCATED!!Age
+595,Annotation of Margin of Error!!Percent Male!!Total population!!PERCENT ALLOCATED!!Age
+596,Annotation of Estimate!!Percent Male!!Total population!!PERCENT ALLOCATED!!Age
+597,Estimate!!Female!!Total population
+598,Margin of Error!!Female!!Total population
+599,Annotation of Margin of Error!!Female!!Total population
+600,Annotation of Estimate!!Female!!Total population
+601,Estimate!!Female!!Total population!!AGE!!Under 5 years
+602,Margin of Error!!Female!!Total population!!AGE!!Under 5 years
+603,Annotation of Margin of Error!!Female!!Total population!!AGE!!Under 5 years
+604,Annotation of Estimate!!Female!!Total population!!AGE!!Under 5 years
+605,Estimate!!Female!!Total population!!AGE!!5 to 9 years
+606,Annotation of Estimate!!Female!!Total population!!AGE!!5 to 9 years
+607,Margin of Error!!Female!!Total population!!AGE!!5 to 9 years
+608,Annotation of Margin of Error!!Female!!Total population!!AGE!!5 to 9 years
+609,Estimate!!Female!!Total population!!AGE!!10 to 14 years
+610,Margin of Error!!Female!!Total population!!AGE!!10 to 14 years
+611,Annotation of Margin of Error!!Female!!Total population!!AGE!!10 to 14 years
+612,Annotation of Estimate!!Female!!Total population!!AGE!!10 to 14 years
+613,Estimate!!Female!!Total population!!AGE!!15 to 19 years
+614,Annotation of Estimate!!Female!!Total population!!AGE!!15 to 19 years
+615,Margin of Error!!Female!!Total population!!AGE!!15 to 19 years
+616,Annotation of Margin of Error!!Female!!Total population!!AGE!!15 to 19 years
+617,Estimate!!Female!!Total population!!AGE!!20 to 24 years
+618,Annotation of Estimate!!Female!!Total population!!AGE!!20 to 24 years
+619,Margin of Error!!Female!!Total population!!AGE!!20 to 24 years
+620,Annotation of Margin of Error!!Female!!Total population!!AGE!!20 to 24 years
+621,Estimate!!Female!!Total population!!AGE!!25 to 29 years
+622,Annotation of Estimate!!Female!!Total population!!AGE!!25 to 29 years
+623,Margin of Error!!Female!!Total population!!AGE!!25 to 29 years
+624,Annotation of Margin of Error!!Female!!Total population!!AGE!!25 to 29 years
+625,Estimate!!Female!!Total population!!AGE!!30 to 34 years
+626,Annotation of Estimate!!Female!!Total population!!AGE!!30 to 34 years
+627,Margin of Error!!Female!!Total population!!AGE!!30 to 34 years
+628,Annotation of Margin of Error!!Female!!Total population!!AGE!!30 to 34 years
+629,Estimate!!Female!!Total population!!AGE!!35 to 39 years
+630,Margin of Error!!Female!!Total population!!AGE!!35 to 39 years
+631,Annotation of Margin of Error!!Female!!Total population!!AGE!!35 to 39 years
+632,Annotation of Estimate!!Female!!Total population!!AGE!!35 to 39 years
+633,Estimate!!Female!!Total population!!AGE!!40 to 44 years
+634,Margin of Error!!Female!!Total population!!AGE!!40 to 44 years
+635,Annotation of Margin of Error!!Female!!Total population!!AGE!!40 to 44 years
+636,Annotation of Estimate!!Female!!Total population!!AGE!!40 to 44 years
+637,Estimate!!Female!!Total population!!AGE!!45 to 49 years
+638,Annotation of Estimate!!Female!!Total population!!AGE!!45 to 49 years
+639,Margin of Error!!Female!!Total population!!AGE!!45 to 49 years
+640,Annotation of Margin of Error!!Female!!Total population!!AGE!!45 to 49 years
+641,Estimate!!Female!!Total population!!AGE!!50 to 54 years
+642,Annotation of Estimate!!Female!!Total population!!AGE!!50 to 54 years
+643,Margin of Error!!Female!!Total population!!AGE!!50 to 54 years
+644,Annotation of Margin of Error!!Female!!Total population!!AGE!!50 to 54 years
+645,Estimate!!Female!!Total population!!AGE!!55 to 59 years
+646,Annotation of Estimate!!Female!!Total population!!AGE!!55 to 59 years
+647,Margin of Error!!Female!!Total population!!AGE!!55 to 59 years
+648,Annotation of Margin of Error!!Female!!Total population!!AGE!!55 to 59 years
+649,Estimate!!Female!!Total population!!AGE!!60 to 64 years
+650,Annotation of Estimate!!Female!!Total population!!AGE!!60 to 64 years
+651,Margin of Error!!Female!!Total population!!AGE!!60 to 64 years
+652,Annotation of Margin of Error!!Female!!Total population!!AGE!!60 to 64 years
+653,Estimate!!Female!!Total population!!AGE!!65 to 69 years
+654,Margin of Error!!Female!!Total population!!AGE!!65 to 69 years
+655,Annotation of Margin of Error!!Female!!Total population!!AGE!!65 to 69 years
+656,Annotation of Estimate!!Female!!Total population!!AGE!!65 to 69 years
+657,Estimate!!Female!!Total population!!AGE!!70 to 74 years
+658,Margin of Error!!Female!!Total population!!AGE!!70 to 74 years
+659,Annotation of Margin of Error!!Female!!Total population!!AGE!!70 to 74 years
+660,Annotation of Estimate!!Female!!Total population!!AGE!!70 to 74 years
+661,Estimate!!Female!!Total population!!AGE!!75 to 79 years
+662,Annotation of Estimate!!Female!!Total population!!AGE!!75 to 79 years
+663,Margin of Error!!Female!!Total population!!AGE!!75 to 79 years
+664,Annotation of Margin of Error!!Female!!Total population!!AGE!!75 to 79 years
+665,Estimate!!Female!!Total population!!AGE!!80 to 84 years
+666,Margin of Error!!Female!!Total population!!AGE!!80 to 84 years
+667,Annotation of Margin of Error!!Female!!Total population!!AGE!!80 to 84 years
+668,Annotation of Estimate!!Female!!Total population!!AGE!!80 to 84 years
+669,Estimate!!Female!!Total population!!AGE!!85 years and over
+670,Annotation of Estimate!!Female!!Total population!!AGE!!85 years and over
+671,Margin of Error!!Female!!Total population!!AGE!!85 years and over
+672,Annotation of Margin of Error!!Female!!Total population!!AGE!!85 years and over
+673,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+674,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+675,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+676,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+677,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+678,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+679,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+680,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+681,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+682,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+683,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+684,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+685,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+686,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+687,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+688,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+689,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+690,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+691,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+692,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+693,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+694,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+695,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+696,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+697,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+698,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+699,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+700,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+701,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+702,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+703,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+704,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+705,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+706,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+707,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+708,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+709,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+710,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+711,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+712,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+713,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+714,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+715,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+716,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+717,Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+718,Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+719,Annotation of Margin of Error!!Female!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+720,Annotation of Estimate!!Female!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+721,Estimate!!Female!!Total population!!SUMMARY INDICATORS!!Median age (years)
+722,Margin of Error!!Female!!Total population!!SUMMARY INDICATORS!!Median age (years)
+723,Annotation of Margin of Error!!Female!!Total population!!SUMMARY INDICATORS!!Median age (years)
+724,Annotation of Estimate!!Female!!Total population!!SUMMARY INDICATORS!!Median age (years)
+725,Estimate!!Female!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+726,Margin of Error!!Female!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+727,Annotation of Margin of Error!!Female!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+728,Annotation of Estimate!!Female!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+729,Estimate!!Female!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+730,Margin of Error!!Female!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+731,Annotation of Margin of Error!!Female!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+732,Annotation of Estimate!!Female!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+733,Estimate!!Female!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+734,Margin of Error!!Female!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+735,Annotation of Margin of Error!!Female!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+736,Annotation of Estimate!!Female!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+737,Estimate!!Female!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+738,Annotation of Estimate!!Female!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+739,Margin of Error!!Female!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+740,Annotation of Margin of Error!!Female!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+741,Estimate!!Female!!Total population!!PERCENT ALLOCATED!!Sex
+742,Annotation of Estimate!!Female!!Total population!!PERCENT ALLOCATED!!Sex
+743,Margin of Error!!Female!!Total population!!PERCENT ALLOCATED!!Sex
+744,Annotation of Margin of Error!!Female!!Total population!!PERCENT ALLOCATED!!Sex
+745,Estimate!!Female!!Total population!!PERCENT ALLOCATED!!Age
+746,Annotation of Estimate!!Female!!Total population!!PERCENT ALLOCATED!!Age
+747,Margin of Error!!Female!!Total population!!PERCENT ALLOCATED!!Age
+748,Annotation of Margin of Error!!Female!!Total population!!PERCENT ALLOCATED!!Age
+749,Estimate!!Percent Female!!Total population
+750,Margin of Error!!Percent Female!!Total population
+751,Annotation of Margin of Error!!Percent Female!!Total population
+752,Annotation of Estimate!!Percent Female!!Total population
+753,Estimate!!Percent Female!!Total population!!AGE!!Under 5 years
+754,Annotation of Estimate!!Percent Female!!Total population!!AGE!!Under 5 years
+755,Margin of Error!!Percent Female!!Total population!!AGE!!Under 5 years
+756,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!Under 5 years
+757,Estimate!!Percent Female!!Total population!!AGE!!5 to 9 years
+758,Annotation of Estimate!!Percent Female!!Total population!!AGE!!5 to 9 years
+759,Margin of Error!!Percent Female!!Total population!!AGE!!5 to 9 years
+760,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!5 to 9 years
+761,Estimate!!Percent Female!!Total population!!AGE!!10 to 14 years
+762,Margin of Error!!Percent Female!!Total population!!AGE!!10 to 14 years
+763,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!10 to 14 years
+764,Annotation of Estimate!!Percent Female!!Total population!!AGE!!10 to 14 years
+765,Estimate!!Percent Female!!Total population!!AGE!!15 to 19 years
+766,Annotation of Estimate!!Percent Female!!Total population!!AGE!!15 to 19 years
+767,Margin of Error!!Percent Female!!Total population!!AGE!!15 to 19 years
+768,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!15 to 19 years
+769,Estimate!!Percent Female!!Total population!!AGE!!20 to 24 years
+770,Annotation of Estimate!!Percent Female!!Total population!!AGE!!20 to 24 years
+771,Margin of Error!!Percent Female!!Total population!!AGE!!20 to 24 years
+772,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!20 to 24 years
+773,Estimate!!Percent Female!!Total population!!AGE!!25 to 29 years
+774,Margin of Error!!Percent Female!!Total population!!AGE!!25 to 29 years
+775,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!25 to 29 years
+776,Annotation of Estimate!!Percent Female!!Total population!!AGE!!25 to 29 years
+777,Estimate!!Percent Female!!Total population!!AGE!!30 to 34 years
+778,Margin of Error!!Percent Female!!Total population!!AGE!!30 to 34 years
+779,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!30 to 34 years
+780,Annotation of Estimate!!Percent Female!!Total population!!AGE!!30 to 34 years
+781,Estimate!!Percent Female!!Total population!!AGE!!35 to 39 years
+782,Margin of Error!!Percent Female!!Total population!!AGE!!35 to 39 years
+783,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!35 to 39 years
+784,Annotation of Estimate!!Percent Female!!Total population!!AGE!!35 to 39 years
+785,Estimate!!Percent Female!!Total population!!AGE!!40 to 44 years
+786,Annotation of Estimate!!Percent Female!!Total population!!AGE!!40 to 44 years
+787,Margin of Error!!Percent Female!!Total population!!AGE!!40 to 44 years
+788,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!40 to 44 years
+789,Estimate!!Percent Female!!Total population!!AGE!!45 to 49 years
+790,Annotation of Estimate!!Percent Female!!Total population!!AGE!!45 to 49 years
+791,Margin of Error!!Percent Female!!Total population!!AGE!!45 to 49 years
+792,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!45 to 49 years
+793,Estimate!!Percent Female!!Total population!!AGE!!50 to 54 years
+794,Annotation of Estimate!!Percent Female!!Total population!!AGE!!50 to 54 years
+795,Margin of Error!!Percent Female!!Total population!!AGE!!50 to 54 years
+796,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!50 to 54 years
+797,Estimate!!Percent Female!!Total population!!AGE!!55 to 59 years
+798,Annotation of Estimate!!Percent Female!!Total population!!AGE!!55 to 59 years
+799,Margin of Error!!Percent Female!!Total population!!AGE!!55 to 59 years
+800,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!55 to 59 years
+801,Estimate!!Percent Female!!Total population!!AGE!!60 to 64 years
+802,Margin of Error!!Percent Female!!Total population!!AGE!!60 to 64 years
+803,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!60 to 64 years
+804,Annotation of Estimate!!Percent Female!!Total population!!AGE!!60 to 64 years
+805,Estimate!!Percent Female!!Total population!!AGE!!65 to 69 years
+806,Margin of Error!!Percent Female!!Total population!!AGE!!65 to 69 years
+807,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!65 to 69 years
+808,Annotation of Estimate!!Percent Female!!Total population!!AGE!!65 to 69 years
+809,Estimate!!Percent Female!!Total population!!AGE!!70 to 74 years
+810,Margin of Error!!Percent Female!!Total population!!AGE!!70 to 74 years
+811,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!70 to 74 years
+812,Annotation of Estimate!!Percent Female!!Total population!!AGE!!70 to 74 years
+813,Estimate!!Percent Female!!Total population!!AGE!!75 to 79 years
+814,Annotation of Estimate!!Percent Female!!Total population!!AGE!!75 to 79 years
+815,Margin of Error!!Percent Female!!Total population!!AGE!!75 to 79 years
+816,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!75 to 79 years
+817,Estimate!!Percent Female!!Total population!!AGE!!80 to 84 years
+818,Margin of Error!!Percent Female!!Total population!!AGE!!80 to 84 years
+819,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!80 to 84 years
+820,Annotation of Estimate!!Percent Female!!Total population!!AGE!!80 to 84 years
+821,Estimate!!Percent Female!!Total population!!AGE!!85 years and over
+822,Margin of Error!!Percent Female!!Total population!!AGE!!85 years and over
+823,Annotation of Margin of Error!!Percent Female!!Total population!!AGE!!85 years and over
+824,Annotation of Estimate!!Percent Female!!Total population!!AGE!!85 years and over
+825,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+826,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+827,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+828,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!5 to 14 years
+829,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+830,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+831,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+832,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 17 years
+833,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+834,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+835,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+836,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!Under 18 years
+837,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+838,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+839,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+840,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!18 to 24 years
+841,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+842,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+843,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+844,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!15 to 44 years
+845,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+846,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+847,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+848,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!16 years and over
+849,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+850,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+851,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+852,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!18 years and over
+853,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+854,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+855,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+856,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!21 years and over
+857,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+858,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+859,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+860,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!60 years and over
+861,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+862,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+863,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+864,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!62 years and over
+865,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+866,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+867,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+868,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!65 years and over
+869,Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+870,Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+871,Annotation of Margin of Error!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+872,Annotation of Estimate!!Percent Female!!Total population!!SELECTED AGE CATEGORIES!!75 years and over
+873,Estimate!!Percent Female!!Total population!!SUMMARY INDICATORS!!Median age (years)
+874,Annotation of Estimate!!Percent Female!!Total population!!SUMMARY INDICATORS!!Median age (years)
+875,Margin of Error!!Percent Female!!Total population!!SUMMARY INDICATORS!!Median age (years)
+876,Annotation of Margin of Error!!Percent Female!!Total population!!SUMMARY INDICATORS!!Median age (years)
+877,Estimate!!Percent Female!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+878,Margin of Error!!Percent Female!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+879,Annotation of Margin of Error!!Percent Female!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+880,Annotation of Estimate!!Percent Female!!Total population!!SUMMARY INDICATORS!!Sex ratio (males per 100 females)
+881,Estimate!!Percent Female!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+882,Annotation of Estimate!!Percent Female!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+883,Margin of Error!!Percent Female!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+884,Annotation of Margin of Error!!Percent Female!!Total population!!SUMMARY INDICATORS!!Age dependency ratio
+885,Estimate!!Percent Female!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+886,Annotation of Estimate!!Percent Female!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+887,Margin of Error!!Percent Female!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+888,Annotation of Margin of Error!!Percent Female!!Total population!!SUMMARY INDICATORS!!Old-age dependency ratio
+889,Estimate!!Percent Female!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+890,Annotation of Estimate!!Percent Female!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+891,Margin of Error!!Percent Female!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+892,Annotation of Margin of Error!!Percent Female!!Total population!!SUMMARY INDICATORS!!Child dependency ratio
+893,Estimate!!Percent Female!!Total population!!PERCENT ALLOCATED!!Sex
+894,Annotation of Estimate!!Percent Female!!Total population!!PERCENT ALLOCATED!!Sex
+895,Margin of Error!!Percent Female!!Total population!!PERCENT ALLOCATED!!Sex
+896,Annotation of Margin of Error!!Percent Female!!Total population!!PERCENT ALLOCATED!!Sex
+897,Estimate!!Percent Female!!Total population!!PERCENT ALLOCATED!!Age
+898,Annotation of Estimate!!Percent Female!!Total population!!PERCENT ALLOCATED!!Age
+899,Margin of Error!!Percent Female!!Total population!!PERCENT ALLOCATED!!Age
+900,Annotation of Margin of Error!!Percent Female!!Total population!!PERCENT ALLOCATED!!Age
